@@ -29,7 +29,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-The project went quite smoothly.
+It was difficult figuring out how to upload the gif to github, but other than that the project went quite smoothly.
 
 ## License
 
