@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/hEB9GIX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/JJ-Sof/web102_prework/blob/main/Website1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif 
 
