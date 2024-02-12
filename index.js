@@ -24,7 +24,7 @@ function deleteChildElements(parent) {
 
 // grab the element with the id games-container
 const gamesContainer = document.getElementById("games-container");
-
+//hi
 // create a function that adds all data from the games array to the page
 function addGamesToPage(games) {
 
@@ -188,7 +188,7 @@ let [first, second, ] = sortedGames;
 const topGame = document.createElement("h1");
 topGame.innerHTML = first.name;
 firstGameContainer.appendChild(topGame);
-
+//hiagain
 // do the same for the runner up item
 
 const secondGame = document.createElement("h1");
